@@ -1,0 +1,6 @@
+@TP_MS_VENDA_HostAddress = http://localhost:5199
+
+GET {{TP_MS_VENDA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
